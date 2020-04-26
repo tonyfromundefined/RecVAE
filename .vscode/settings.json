@@ -1,3 +1,4 @@
 {
-  "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=4ce644f0fa0270729b54d8cc48e4787dc340609914cec178"
+  "python.dataScience.jupyterServerURI": "local",
+  "python.pythonPath": ".venv/bin/python3.7"
 }
